@@ -1,7 +1,7 @@
 # Machine-learning-in-Agriculture
 Analytics Vidhya
 
-Private leader board score: 0.8479
+Private leader board score: 0.9535
 
 # Problem Statement
 
